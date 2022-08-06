@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/15c47517-e13b-4678-b57e-aa43135d096f">
+    <skos:narrower>
+      <skos:Concept rdf:about="http://localhost:8000/ca81723a-46e4-4fa3-8d94-5dbd1a75ffae">
+        <skos:prefLabel xml:lang="en-us">{"id": "c07f4015-cc03-4355-897f-e3c2a61601e8", "value": "AA_ssmlimm_conceptScheme"}</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://localhost:8000/15c47517-e13b-4678-b57e-aa43135d096f"/>
+        <dcterms:identifier xml:lang="en">{"id": "c365ca20-26ea-4c6e-b60e-09c363ee6bc6", "value": "http://localhost:8000/ca81723a-46e4-4fa3-8d94-5dbd1a75ffae"}</dcterms:identifier>
+      </skos:Concept>
+    </skos:narrower>
+    <dcterms:title xml:lang="en-us">{"id": "3b35c991-1f4b-42ca-9269-4a006b1e2d34", "value": "ORPHANS - ORPHANS - Arches"}</dcterms:title>
+  </skos:ConceptScheme>
+</rdf:RDF>

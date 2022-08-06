@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:ConceptScheme rdf:about="http://localhost:8000/d1a0c9db-e451-4fa6-83a8-129a709f9610">
+    <dcterms:identifier xml:lang="en">{"id": "90a3db9b-f122-4869-aee9-c6c11c04f466", "value": "http://localhost:8000/d1a0c9db-e451-4fa6-83a8-129a709f9610"}</dcterms:identifier>
+    <dcterms:title xml:lang="en-us">{"id": "e8dbf688-92d2-49c2-9309-48c8751d4b72", "value": "ORPHANS - Arches"}</dcterms:title>
+  </skos:ConceptScheme>
+</rdf:RDF>
